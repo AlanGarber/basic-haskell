@@ -1,6 +1,8 @@
--- En una plantacion de pinnos, de cada arbol se conoce la altura expresada en metros. El peso de un pino se puede calcular a partir de la altura asi:
--- 3KG por cada centimetro hasta tres metros
--- 2KG por cada centimetro arriba de los tres metros
+{- 
+ En una plantacion de pinnos, de cada arbol se conoce la altura expresada en metros. El peso de un pino se puede calcular a partir de la altura asi:
+ 3KG por cada centimetro hasta tres metros
+ 2KG por cada centimetro arriba de los tres metros
+-}
 
 
 --Definí la función pesoPino, que recibe la altura de un pino en metros y devuelve su peso.
